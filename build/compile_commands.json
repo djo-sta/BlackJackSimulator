@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/djosta/Documents/blackjack/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/apk.dir/main.cpp.o -c /home/djosta/Documents/blackjack/main.cpp",
+  "file": "/home/djosta/Documents/blackjack/main.cpp",
+  "output": "CMakeFiles/apk.dir/main.cpp.o"
+}
+]

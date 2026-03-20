@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/apk.dir/link.d CMakeFiles/apk.dir/main.cpp.o -o apk  -lcurses /usr/lib/x86_64-linux-gnu/libform.so
